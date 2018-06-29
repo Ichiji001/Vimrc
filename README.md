@@ -1,5 +1,5 @@
 # Vimrc
-
+```
 filetype plugin indent on
 
 " show existing tab with 4 spaces width
@@ -25,4 +25,4 @@ endfunction
 
 noremap <silent> <Home> :call ToggleHome(0)<CR>
 inoremap <silent> <Home> <ESC>:call ToggleHome(1)<CR>
-  
+```
